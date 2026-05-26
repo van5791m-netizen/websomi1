@@ -1,0 +1,7 @@
+.nav-links {
+    list-style: none;
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+}
